@@ -1,0 +1,1 @@
+#3. Implemente um programa que solicite 10 números inteiros ao usuário. Informe quantos números são pares.

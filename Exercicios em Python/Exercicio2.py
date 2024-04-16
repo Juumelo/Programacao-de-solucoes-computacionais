@@ -1,0 +1,1 @@
+#2. Implemente um programa que solicite 5 números do tipo ponto flutuante ao usuário. Exiba o maior número informado.
