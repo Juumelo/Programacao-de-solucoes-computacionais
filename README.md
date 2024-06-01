@@ -1,1 +1,3 @@
-Unidade Curricular do curso de Engenharia de Software
+<h1> Unidade Curricular do curso de Engenharia de Software </h1>
+<h4>Ementa: </h4>
+<p>Noções de geometria análitica e teoria de conjuntos. Álgebra e Lógica booleana. Algoritmos e suas representações. Lógica de programação - entrada, processamento, saída. Constantes e variáveis. Estruturas de controle: seleção e repetição. Funções e procedimentos. Passagem de parâmetros por valor e referência. Operações com vetores e matrizes. Tipos abstratos de dados: pilhas, filas e listas. Algoritmos de pesquisa e de ordenação. Paradigmas de Linguagens de Programação. Programação orientada a objetos: classes, objetos, métodos, atributos, construtores e métodos de acesso e modificadores. Encapsulamento, herança, abstração e polimorfismo. Tratamento de exceções. Manipulação de arquivos e conexão com SGBD (Sistemas Gerenciadores de Banco de Dados). Bibliotecas de interfaces gráficas. Linguagem SQL de banco de dados.</p>
